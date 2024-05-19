@@ -1,37 +1,32 @@
 body {
-    width: 100%;
-    height: 100vh;
-    margin: 0;
-    background-color: darkolivegreen;
-    color: #f5f6f7;
-    font-family: Tahoma;
-    font-size: 16px;
-}
-
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(13, 30, 79);
+  color: #f5f6f7;
+  font-family: system-ui;
+  font-size: 16px;
+  }
 h1, p {
-    margin: 1em auto;
-    text-align: center;
-}
-
+  margin: 1em auto;
+  text-align: center;
+  }
 form {
     width: 60vw;
-    max-width: 500px;
-    min-width: 300px;
-    margin: 0 auto;
-    padding-bottom: 2em;
-}
-
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+   }
 fieldset {
-    border-bottom: 3px solid darkolivegreen;
-}
-
+    border-bottom: 3px solid rgb(100, 114, 183);
+  }
 label {
     display: block;
-    margin: 0.5rem 0;
-}
-
+  margin: 0.5rem 0;
+  }
 input, textarea {
-    background-color: darkgoldenrod;
-    border: 1px solid #234758;
-    color: #ffffff;
-}
+  background-color: rgb(29, 27, 50);
+  border: 1px solid #234758;
+  color: #ffffff;
+  }
